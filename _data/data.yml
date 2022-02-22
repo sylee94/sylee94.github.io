@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: baby_faced_assassin.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: SangYeop Lee
+    tagline: Baby-faced Assassin
+    avatar: baby_faced_assassin.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sangyeop0131@hanyang.ac.kr
     #phone: 012 345 6789
     citizenship:
     website: sylee94.github.io #do not add http://
-    linkedin: https://www.linkedin.com/in/sangyeop-lee-80852b215/
+    linkedin: sylee94
     #xing: alandoe
     github: sylee94
     telegram: # add your nickname without '@' sign
@@ -58,9 +58,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Industrial Engineering
+      university: Hanyang University
+      time: 2020 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +69,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Industrial Engineering
+      university: Inha University
+      time: 2012 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
